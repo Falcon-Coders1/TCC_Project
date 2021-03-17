@@ -27,7 +27,7 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 
 ---
 # ```Customer List```
-![bg :100% 70%](CustomerList.png)
+![bg :90% 70%](CustomerList.png)
 
 ----
 # ```Quotation```
