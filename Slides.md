@@ -33,6 +33,29 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 # ```Quotation```
 ![bg :100% 70%](ProjectPdf/Quotation.pdf)
 
+----
+# ```Sales order```
+![bg :100% 70%](ProjectPdf/Quotation.pdf)
+
+---
+
+# ```Delivery Note```
+![bg :100% 70%](ProjectPdf/Quotation.pdf)
+
+----
+# ```Payment Request```
+![bg :100% 70%](ProjectPdf/Quotation.pdf)
+
+----
+# ```Sales Invoice```
+![bg :100% 70%](ProjectPdf/Quotation.pdf)
+
+----
+# ```Payment Entry```
+![bg :100% 70%](ProjectPdf/Quotation.pdf)
+
+----
+
 <!--
 https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.mYmv9Fjh8mJGHh5mvocmNQHaFj%26pid%3DApi&f=1
 
