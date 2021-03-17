@@ -1,209 +1,83 @@
-<!DOCTYPE html><html lang=en><head><meta http-equiv=Content-Type content="text/html; charset=UTF-8"><meta name=viewport content="width=device-width,initial-scale=1"><link rel="stylesheet" href="slidestyles.css" type="text/css" media="screen" charset="utf-8">
+---
+theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
+marp: true
 
-<!-- #ToDo: Change Title for the presentation -->
-<title>Presentation Title</title>
+backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFcfc3lLfpbn8A5tdeEJ1htvfSaduvEn1Lg&usqp=CAU')
 
-</head>
-    
-<!-- #ToDo: Change 16:9 to 4:3 or vice versa, according to the current projector / screen -->
-<body onload="var slideshow = remark.create({ratio: '16:9', navigation: {scroll: true, touch: true, click: false}, countIncrementalSlides: false, highlightLanguage: 'bash', highlightStyle: 'tomorrow-night-blue'});">
+---
+# ```ERPNext```
 
-<!-- #ToDo: Write your slides in MarkDown here -->
-<textarea id="source">
-
-class: center, middle
-
-background-image: url(media/pixybay-polygon-906202_1280.jpg)
-# Slides In MarkDown
+---
 
 # ```Company```
 
 ![bg :100% 90%](images/Company.png)
+
 ---
+
 # ```Item Group```
 ![bg :100% 70%](images/ItemGroup.png)
 
 ---
-
 # ```Item List```
 ![bg :100% 70%](images/ItemList.png)
----
-
-# HowTo: Theming
-
-If you want, you can customize the looks of your slide deck by simply editing the CSS file with your favorite code editor. Colors, fonts and layout are completely customizable as if you were editing a regular website.
-
-This level of customization is not necessary to simply *write* slides in Markdown. For common layout & formatting examples, check out the following slides.
 
 ---
+# ```Customer List```
+![bg :90% 70%](images/CustomerList.png)
 
-class: center, middle
+----
+# ```Quotation```
+![bg right :100% 90%](images/Quotation.jpg)
 
-# Formatting Examples
-
----
-
-# Large Heading
-## Small Heading
-
-Lorem Ipsum dolor sit amet, sic transit gloria mundi. Consectetur adipiscing elit. Mauris quis mi tellus. Sed massa massa, luctus id efficitur et, fringilla vel velit. Nullam efficitur ante et sapien fermentum semper. Morbi vehicula sapien enim.
+---- 
+# ```Sales order```
+![bg left :100% 70%](images/Sales_Order1.jpg)
+![bg right :100% 70%](images/Sales_Order2.jpg)
 
 ---
 
-class: top, center
+# ```Delivery Note```
+![bg left :100% 70%](images/Delivery_Note1.jpg)
+![bg right :100% 70%](images/Delivery_Note2.jpg)
 
-# Top Center
+----
+# ```Payment Request```
+![bg left :100% 70%](images/Payment_Request.jpg)
 
-Lorem Ipsum dolor sit amet, sic transit gloria mundi. Consectetur adipiscing elit. Mauris quis mi tellus. Sed massa massa, luctus id efficitur et, fringilla vel velit. Nullam efficitur ante et sapien fermentum semper. Morbi vehicula sapien enim.
+----
+# ```Sales Invoice```
+![bg right :100% 70%](images/Sales_Invoice.jpg)
 
----
+----
+# ```Payment Entry```
+![bg left :100% 70%](images/Payment_Entry.jpg)
 
-# Numbered List
+----
+# ```Chart of Accounts```
+![bg  :100% 70%](images/ChartOfAccounts.png)
 
-1. Lorem Ipsum
-2. Dolor Sit Amet
-3. Sic transit
-4. Gloria Mundi
+----
+# ```General Ledger```
 
-???
-Your presenter notes
-
----
-
-# Bulletpoint List
-
-* Lorem Ipsum
-* Dolor Sit Amet
-* Sic transit
-* Gloria Mundi
-
-???
-Your presenter notes
+![bg :100% 80%](images/GeneralLedger.png)
 
 ---
+# ```Journal Entry```
 
-class: center, middle, blackbg
-
-background-image: url(media/flexboxbg.jpg)
-
-#### And Now
-
---
-
-### For Some
-
---
-
-# Incrementation
-
---
-
-## On The Same Slide
+![bg :100% 80%](images/JournalEntry.png)
 
 ---
+# ```Balance Sheet```
+![bg :100% 80%](images/BalanceSheet.png)
 
-background-image: url(media/pixybay-polygon-906202_1280.jpg)
+------
 
-class: top, center
+# ```Profit and Loss Statement```
 
-# BLOCKQUOTE
-
-.blockquote[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis mi tellus. Sed massa massa, luctus id efficitur et, fringilla vel velit. Nullam efficitur ante et sapien fermentum semper. Morbi vehicula sapien enim, vitae sagittis elit pharetra semper. Etiam pharetra maximus orci sed scelerisque mauris. Etiam pharetra maximus orci sed scelerisquest.
-
-Author Name, 2001]
-
-???
-Your presenter notes
-
----
-
-background-image: url(media/pixybay-polygon-906202_1280.jpg)
-
-# Code Snippet
-
-```js
-// Configurable Syntax Highlighing
-var key;
-var a = [];
-a[0] = "a";
-a[10] = "b";
-a[10000] = "c";
-for (key in a) {
-    if (a.hasOwnProperty(key)  &&        // Detail Comment
-        /^0$|^[1-9]\d*$/.test(key) &&
-        key <= 0123456789
-        ) {
-        console.log(a[key]);
-    }
-}
-```
-
----
-
-class: top, center
-
-![Dummy Picture](media/buffy-stake-tool-capable.gif)
-.footnote[Photo Credits]
-
-???
-Your presenter notes
-
----
-
-class: center, middle, redbg
-
-background-image: url(media/pixybay-polygon-906202_1280.jpg)
-# Background Tinting
-## blackbg, redbg & bluebg
-
-???
-Your presenter notes
-
----
+![bg :90% 80%](images/ProfitAndLoss.png)
 
 
-class: top, center
-
-# Two Columns
-
-.left-column[
-![Dummy Picture](media/flexboxbg.jpg)]
-
-.right-column[
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis mi tellus. Sed massa massa, luctus id efficitur et, fringilla vel velit. Nullam efficitur ante et sapien fermentum semper. Morbi vehicula sapien enim, vitae sagittis elit pharetra semper. Etiam pharetra maximus orci, sed scelerisque mauris lacinia quis. Aliquam erat volutpat.]
-
-???
-Your presenter notes
-
----
-
-.video[
-<iframe src="http://www.youtube.com/embed/9VlHOlrYcO8" frameborder="0" allowfullscreen></iframe>]
-
-.video[
-![Video Image Screenshot for PDF Export](media/flexboxbg.jpg)]
-
-.footnote[YouTube Video Credits]
-
----
-
-.video[
-<video controls>
-  <source src="media/localvideo.webm" type="video/webm">
-  <source src="media/localvideo.mp4" type="video/mp4">
-</video>]
-
-.video[
-![Video Image Screenshot for PDF Export](media/flexboxbg.jpg)]
-
-.footnote[Local HTML5 Video Credits]
-
----
-
-class: center, middle
-
-# The End
-##### created by [Tobias Baldauf](http://who.tobias.is/), [@tbaldauf](https://twitter.com/tbaldauf)<br>based on [Remark.js](https://github.com/gnab/remark/)<br>made with <3
-
-
-</textarea><script type="text/javascript" src="remark-latest.min.js"></script></body></html>
