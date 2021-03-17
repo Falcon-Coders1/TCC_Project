@@ -35,7 +35,11 @@ Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
 
 # ```Company```
 
+<<<<<<< HEAD
 ![bg :100% 90%](Company.png)
+=======
+![bg:100% 90%](Company.png)
+>>>>>>> e197cd5477b84871c2d8c009d6b506adf4d208ae
 
 ---
 
