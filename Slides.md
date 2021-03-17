@@ -25,16 +25,8 @@ background-image: url(media/pixybay-polygon-906202_1280.jpg)
 
 ---
 
-# HowTo: PDF Export
-
-1. Install DeckTape: https://github.com/astefanutti/decktape
-2. Start a local webserver inside slide deck directory (e.g. 'python -m http.server')
-2. Go to local DeckTape repository using your terminal
-3. Run: './bin/phantomjs decktape.js http://127.0.0.1:8080/slidedeck.html slidedeck.pdf
-4. Be proud of your beautiful slidedeck.pdf file!
-
-P.S.: Provide fallback images for videos as shown in video slide example code.
-
+# ```Item List```
+![bg :100% 70%](images/ItemList.png)
 ---
 
 # HowTo: Theming
