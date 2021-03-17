@@ -20,20 +20,8 @@ background-image: url(media/pixybay-polygon-906202_1280.jpg)
 
 ![bg :100% 90%](images/Company.png)
 ---
-name: ForSlideInterLinking
-
-background-color: purple
-
-# HowTo: Presenting
-
-1. Open the HTML file in a browser (via 'file://' or local webserver)
-2. Press 'c' to clone the current view into a new, synced window
-3. Press 'p' in the original window to enter Presenter Console
-4. Move the cloned window to projector / screen display
-5. Press 'f' to make the cloned window fullscreen
-6. Enjoy!
-
-Hint: You can always press 'h' to see an overview of all available key commands.
+# ```Item Group```
+![bg :100% 70%](images/ItemGroup.png)
 
 ---
 
