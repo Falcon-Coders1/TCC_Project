@@ -31,28 +31,30 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 
 ----
 # ```Quotation```
-![bg :100% 70%](images/ProjectPdf/Quotation.pdf)
+![bg :100% 70%](images/Quotation.jpg)
 
 ----
 # ```Sales order```
-![bg :100% 70%](images/ProjectPdf/Quotation.pdf)
+![bg :100% 70%](images/Sales_Order1.jpg)
+![bg :100% 70%](images/Sales_Order2.jpg)
 
 ---
 
 # ```Delivery Note```
-![bg :100% 70%](images/ProjectPdf/Quotation.pdf)
+![bg :100% 70%](images/Delivery_Note1.jpg)
+![bg :100% 70%](images/Delivery_Note2.jpg)
 
 ----
 # ```Payment Request```
-![bg :100% 70%](images/ProjectPdf/Quotation.pdf)
+![bg :100% 70%](images/Payment_Request.jpg)
 
 ----
 # ```Sales Invoice```
-![bg :100% 70%](images/ProjectPdf/Quotation.pdf)
+![bg :100% 70%](images/Sales_Invoice.jpg)
 
 ----
 # ```Payment Entry```
-![bg :100% 70%](images/ProjectPdf/Quotation.pdf)
+![bg :100% 70%](images/Payment_Entry.jpg)
 
 ----
 # ```Chart of Accounts```
