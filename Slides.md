@@ -5,7 +5,7 @@ paginate: true
 backgroundColor: #fff
 marp: true
 
-backgroundImage: url('https://venngage-wordpress.s3.amazonaws.com/uploads/2018/11/Presentation-Background-Examples23.jpg')
+backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFcfc3lLfpbn8A5tdeEJ1htvfSaduvEn1Lg&usqp=CAU')
 
 ---
 <!--
@@ -35,7 +35,7 @@ Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
 
 # ```Company```
 
-![bg :100% 90%](company.png)
+![bg :100% 90%](Company.png)
 
 ---
 
