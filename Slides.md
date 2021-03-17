@@ -37,6 +37,7 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 # ```Sales order```
 ![bg left :100% 70%](images/Sales_Order1.jpg)
 ![bg right :100% 70%](images/Sales_Order2.jpg)
+
 ---
 
 # ```Delivery Note```
@@ -78,9 +79,5 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 # ```Profit and Loss Statement```
 
 ![bg :90% 80%](images/ProfitAndLoss.png)
-<!--
 
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.mYmv9Fjh8mJGHh5mvocmNQHaFj%26pid%3DApi&f=1
-
--->
 
