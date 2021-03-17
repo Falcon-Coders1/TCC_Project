@@ -81,20 +81,5 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 
 https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.mYmv9Fjh8mJGHh5mvocmNQHaFj%26pid%3DApi&f=1
 
-![bg left:40% 70%](https://marp.app/assets/marp.svg)
-
-# **Marp**
-
-Markdown Presentation Ecosystem
-
-https://marp.app/ 
--->
-
-
-<!--
-# How to write slides
-
-Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
-
 -->
 
