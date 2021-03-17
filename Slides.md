@@ -4,10 +4,10 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 marp: true
-backgroundImage: url('https://marp.app/assets/hero-background.jpg')
+backgroundImage: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.nEGHCk_v9IGp6O8K_J_RQwHaFj%26pid%3DApi&f=1')
 ---
 <!--
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
+![bg left:40% 70%](https://marp.app/assets/marp.svg)
 
 # **Marp**
 
@@ -31,7 +31,7 @@ Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
 
 # Company 
 
-![bg :40% 80%](company.png)
+![bg :100% 90%](company.png)
 
 ---
 
