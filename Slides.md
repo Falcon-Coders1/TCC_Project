@@ -26,6 +26,13 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 ![bg :100% 70%](ItemList.png)
 
 ---
+# ```Customer List```
+![bg :100% 70%](CustomerList.png)
+
+----
+# ```Quotation```
+![bg :100% 70%](ProjectPdf/Quotation.pdf)
+
 <!--
 https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.mYmv9Fjh8mJGHh5mvocmNQHaFj%26pid%3DApi&f=1
 
