@@ -4,9 +4,13 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 marp: true
-backgroundImage: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.mYmv9Fjh8mJGHh5mvocmNQHaFj%26pid%3DApi&f=1')
+
+backgroundImage: url('https://venngage-wordpress.s3.amazonaws.com/uploads/2018/11/Presentation-Background-Examples23.jpg')
+
 ---
 <!--
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.mYmv9Fjh8mJGHh5mvocmNQHaFj%26pid%3DApi&f=1
+
 ![bg left:40% 70%](https://marp.app/assets/marp.svg)
 
 # **Marp**
@@ -36,7 +40,7 @@ Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
 ---
 
 # ```Item Group```
-
+![bg :100% 70%](ItemGroup.png)
 
 <!--
 ```markdown
