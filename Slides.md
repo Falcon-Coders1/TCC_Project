@@ -30,6 +30,10 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 ![bg :90% 70%](images/CustomerList.png)
 
 ----
+# ```Price List```
+![bg :90% 70%](images/PriceList.png)
+
+----
 # ```Quotation```
 ![bg right :100% 90%](images/Quotation.jpg)
 
@@ -55,6 +59,11 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 ----
 # ```Payment Entry```
 ![bg left :100% 70%](images/Payment_Entry.jpg)
+
+----
+
+# ```Email```
+![bg :90% 70%](images/Email.png)
 
 ----
 # ```Chart of Accounts```
