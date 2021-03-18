@@ -40,12 +40,18 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 ---- 
 # ```Sales order```
 ![bg left :100% 70%](images/Sales_Order1.jpg)
+
+---
+
 ![bg right :100% 70%](images/Sales_Order2.jpg)
 
 ---
 
 # ```Delivery Note```
 ![bg left :100% 70%](images/Delivery_Note1.jpg)
+
+----
+
 ![bg right :100% 70%](images/Delivery_Note2.jpg)
 
 ----
