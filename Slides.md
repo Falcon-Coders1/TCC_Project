@@ -50,11 +50,13 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 ---
 
 # ```Delivery Note```
-![bg left :100% 70%](images/Delivery_Note1.jpg)
+![bg left :100% 70%](https://user-images.githubusercontent.com/57444962/111756309-13125900-88c0-11eb-9ed4-9691acb2e406.jpg)
+
 
 ----
 
-![bg right :100% 70%](images/Delivery_Note2.jpg)
+![bg right :100% 70%](https://user-images.githubusercontent.com/57444962/111756373-232a3880-88c0-11eb-8f84-0bff4bc017df.jpg)
+
 
 ----
 # ```Payment Request```
