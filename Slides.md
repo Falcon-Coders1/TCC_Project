@@ -39,12 +39,12 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 
 ---- 
 # ```Sales order```
-![bg left :100% 70%]![Sales Order-page-001](https://user-images.githubusercontent.com/57444962/111754875-7bf8d180-88be-11eb-861c-a32bf699de75.jpg)
+![bg left :100% 70%](https://user-images.githubusercontent.com/57444962/111754875-7bf8d180-88be-11eb-861c-a32bf699de75.jpg)
 
 
 ---
 
-![bg right :100% 70%]![Sales order-page-002](https://user-images.githubusercontent.com/57444962/111754987-9d59bd80-88be-11eb-88ff-a6da118a1219.jpg)
+![bg right :100% 70%](https://user-images.githubusercontent.com/57444962/111754987-9d59bd80-88be-11eb-88ff-a6da118a1219.jpg)
 
 
 ---
