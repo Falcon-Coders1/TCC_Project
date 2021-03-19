@@ -44,13 +44,13 @@ backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc
 
 ---
 
-![bg right :100% 70%](https://user-images.githubusercontent.com/57444962/111754987-9d59bd80-88be-11eb-88ff-a6da118a1219.jpg)
+![bg left :100% 70%](https://user-images.githubusercontent.com/57444962/111754987-9d59bd80-88be-11eb-88ff-a6da118a1219.jpg)
 
 
 ---
 
 # ```Delivery Note```
-![bg left :100% 70%](https://user-images.githubusercontent.com/57444962/111756309-13125900-88c0-11eb-9ed4-9691acb2e406.jpg)
+![bg right :100% 70%](https://user-images.githubusercontent.com/57444962/111756309-13125900-88c0-11eb-9ed4-9691acb2e406.jpg)
 
 
 ----
